@@ -1,2 +1,4 @@
 name = Form Field Placeholder 
 description = Adding placeholder to Forms
+core = 7.x
+package = User Interface
